@@ -1,0 +1,14 @@
+
+src/PlanMe/PlanMe/PlanMe\.Android/bin/
+
+src/PlanMe/PlanMe/PlanMe\.Android/obj/
+
+src/PlanMe/PlanMe/PlanMe\.UWP/obj/
+
+src/PlanMe/PlanMe/PlanMe\.iOS/obj/
+
+src/PlanMe/packages/
+
+src/PlanMe/\.vs/
+
+*.user

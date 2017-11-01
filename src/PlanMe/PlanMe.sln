@@ -16,6 +16,7 @@ Global
 		PlanMe\PlanMe\PlanMe.projitems*{51c97410-f8e4-4e1d-9c0a-1771d559bd26}*SharedItemsImports = 13
 		PlanMe\PlanMe\PlanMe.projitems*{758ea334-ffa2-44ca-99d0-a495c9bff13b}*SharedItemsImports = 4
 		PlanMe\PlanMe\PlanMe.projitems*{d1c6268a-f2e8-4e4c-9f2d-475dba086e80}*SharedItemsImports = 4
+		PlanMe\PlanMe\PlanMe.projitems*{ea0a1e77-fcd6-4203-aa5e-447b285b95ad}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
